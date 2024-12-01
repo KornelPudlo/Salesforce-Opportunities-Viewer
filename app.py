@@ -345,14 +345,13 @@ def opportunities_viewer():
 
                 # Add Recommended Resources based on Industry
                 resources = {
-                    "Technology": ["./resources/Tech_Case_Study.pdf", "./resources/Tech_Whitepaper.pdf"],
+                    "Technology": ["./resources/Tech_Whitepaper.pdf"],
                     "Healthcare": ["./resources/Healthcare_Report.pdf", "./resources/Clinical_Case_Study.pdf"],
                     "Financial Services": ["./resources/Financial_Insights.pdf", "./resources/Banking_Case_Study.pdf"],
-                    "Electronics": ["./resources/Electronics_Industry.pdf",
-                                    "./resources/Developing the Electronics Industry.pdf"],
-                    "Apparel": ["./resources/Apparel_Industry.pdf", "./resources/THE GLOBAL APPAREL VALUE CHAIN.pdf"],
-                    "Construction": ["./resources/Construction Industry.pdf", "./resources/Construction Guide.pdf"],
-                    "Consulting": ["./resources/Consulting_Strategies.pdf", "./resources/Business_Consulting.pdf"],
+                    "Electronics": ["./resources/Electronics_Industry.pdf"],
+                    "Apparel": ["./resources/THE GLOBAL APPAREL VALUE CHAIN.pdf"],
+                    "Construction": ["./resources/Construction Industry.pdf"],
+                    "Consulting": ["./resources/Consulting_Strategies.pdf"],
                     "Hospitality": ["./resources/Hospitality_Insights.pdf", "./resources/Hospitality Sectors.pdf"],
                     "Energy": ["./resources/Energy Sector Overview.pdf", "./resources/Renewable_Energy.pdf"],
                     "Transportation": ["./resources/Future of transportation.pdf",

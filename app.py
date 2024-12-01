@@ -405,9 +405,7 @@ def about_the_author():
     
     - **Read the full story:**  
       [![Medium](https://img.icons8.com/ios-glyphs/30/000000/medium-monogram.png)](https://medium.com/@korn.pudlo) Medium  
-    
-    - **Watch the demo:**  
-      [![YouTube](https://img.icons8.com/ios-glyphs/30/000000/youtube-play.png)](https://www.youtube.com/watch?v=S13dW3reDVw) YouTube    
+      
     """, unsafe_allow_html=True)
 
 

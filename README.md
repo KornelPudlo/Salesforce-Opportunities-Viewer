@@ -33,5 +33,5 @@ Required libraries listed in requirements.txt
 Steps:
 
 1. Clone the Repository:
-git clone https://github.com/KornelPudlo/salesforce-opportunities-viewer.git
-cd salesforce-opportunities-viewer
+` git clone https://github.com/KornelPudlo/salesforce-opportunities-viewer.git
+cd salesforce-opportunities-viewer` 

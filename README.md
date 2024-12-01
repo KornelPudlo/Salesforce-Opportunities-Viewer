@@ -90,16 +90,9 @@ The **Salesforce Opportunities Viewer App** is an interactive web-based tool des
 ## Screenshots
 
 ### Dashboard Overview
-![Dashboard Overview](screenshots/overview.png)
-
-### Opportunity Details
-![Opportunity Details](screenshots/opportunity_details.png)
-
-### Risk Analysis
-![Risk Analysis](screenshots/risk_analysis.png)
-
-### Recommended Resources
-![Recommended Resources](screenshots/recommended_resources.png)
+![Dashboard Overview](https://github.com/user-attachments/assets/a54b02ee-8f46-432f-a775-b75b87309537)
+### Deal Accelerator
+![Deal Accelerator](https://github.com/user-attachments/assets/059a0fe0-f6ef-429d-ac8b-db0e263b7b4b)
 
 ## Contributing
 
